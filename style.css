@@ -29,7 +29,7 @@ header h1 {
 
 header p {
     font-size: 1.5rem;
-    color: #ff4444; /* Light red for header subtitle */
+    color: #ff4444;
     text-shadow: 
          3px 3px 0 #000,
         -3px -3px 0 #000,
@@ -84,8 +84,8 @@ section {
 }
 
 #members {
-    padding-left: 50px; /* Add space on the left */
-    padding-right: 500px; /* Add space on the right */
+    padding-left: 50px;
+    padding-right: 500px;
 }
 
 
